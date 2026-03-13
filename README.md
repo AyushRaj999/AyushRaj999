@@ -206,27 +206,6 @@ Features:
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushRaj999&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj999&layout=compact&theme=tokyonight">
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/AyushRaj999">GitHub</a> <a href="https://www.linkedin.com/in/ayush-raj-69676124a">LinkedIn</a>
-
-</p>
 
 ---
 
